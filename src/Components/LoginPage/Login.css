@@ -1,0 +1,32 @@
+.head{
+    line-height: 30px;
+    height: 35%;
+    top:30%;
+    width:35%;
+    left:35%;
+    border-radius: 10px;
+    border:1px solid black;
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.head .title{
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 12px;
+    height: 30%;
+    line-height: 40px;
+}
+.signin{
+    width: 80%;
+    border-radius: 5px;
+    font-family: serif;
+    margin: 10px;
+    font-size:20px;
+}
+.warn{
+    height: 30px;
+    color:red;
+    font-size: 16px;
+    font-style: italic;
+}
